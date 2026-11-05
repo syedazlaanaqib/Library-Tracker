@@ -4,6 +4,7 @@ A command-line program for tracking library books.
 
 - List Books
 - Add a book
+- Borrow Book
 
 ## Contributors
 Syed Azlaan Aqib (CS-24144)
